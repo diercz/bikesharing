@@ -43,4 +43,6 @@ The last image shows the start and end locations for the Citi Bike users.  You c
 
 ## Summary 
 
+![webpage](https://github.com/diercz/bikesharing/blob/main/Images/Customer%20vs%20sub.png)
+
 Overall, the data that was analyzed shows us many trends in New York City that we can assume would follow suit in other larger market areas.  What we found was that users are typically Male and that users tend to utilize Citi Bikes at 8:00 am and 4-6:00pm.  Are users tend to be 25-35 years, but have an outlier at 52 years of age for "unkown" gender with over 200,000 rides.  Further investigation would be beneficial to determine what occurred for this larger # of users and was there a specific time frame these rentals occured during.  Another interesting metric to analyze would be if users use the bikes for daily commutes, leizure, or rarely.  This could then tell us more and how we can engage with our customers and have them become subscribers.  We could then analyze by gender, age, and other metrics to understand the market better.  
