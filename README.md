@@ -6,7 +6,7 @@ Created multiple dashboards and a story to analyze and visualize citi bikes data
 
 The Module 14 projected consisted of creating a pitch for a citi bike business proposal to angel investors looking to seek funding.  The goal was to look at the Citi Bike data in New York City for one month (August) to see how bikesharing business operates in its prime during the summer.  After analyzing the data, I then created visualizations to display the trends and opportunities it would have in other cities.
 
-##Resources
+## Resources
 
 - Dataset
   - Download the `201908-citibike-tripdata.csv.zip` from this [CitiBike link](https://s3.amazonaws.com/tripdata/index.html)
